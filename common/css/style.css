@@ -1,9 +1,6 @@
-
-
 :root {
     --zoom: 0.8;
   }
-
 
 .card{
     transform-style: preserve-3d;
@@ -55,6 +52,3 @@
     transform: rotateY(180deg);
     position: absolute;
 }
-
-
-
